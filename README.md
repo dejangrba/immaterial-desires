@@ -1,7 +1,7 @@
-# Immaterial Desires0
+# Immaterial Desires
 ## Cultural Integration of Experimental Digital Art
 
-![Nao Tokui, The Latent Future (2017).](https://dejangrba.github.io/immaterial-desires/Nao-Tokui-2017-The-Latent-Future.jpg)
+![Nao Tokui, The Latent Future (2017).](https://dejangrba.github.io/immaterial-desires-page/Nao-Tokui-2017-The-Latent-Future.jpg)
 Nao Tokui, _The Latent Future_ (2017). Photo: Kioku Keizo. Photo Courtesy: NTT InterCommunication Center [ICC].
 
 ### Abstract
