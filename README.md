@@ -9,6 +9,12 @@ In this paper we explore how the creative dynamics of experimental digital art (
 
 __Keywords:__ Bricolage, Digital Culture, Experimental Digital Art, Information Technologies, Mainstream Contemporary Art.
 
+### Publication
+The International Conference on Art, Museums and Digital Cultures Proceedings. Lisbon, 22-23 April 2021 (forthcoming)
+
+### Full Text
+Will be available upon publication.
+
 ### References
 !Mediengruppe Bitnik. 2014. &quot;Random Darknet Shopper.&quot;!Mediengruppe Bitnik website. [https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/)
 
