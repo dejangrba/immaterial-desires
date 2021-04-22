@@ -10,7 +10,7 @@ In this paper we explore how the creative dynamics of experimental digital art (
 __Keywords:__ Bricolage, Digital Culture, Experimental Digital Art, Information Technologies, Mainstream Contemporary Art.
 
 ### Publication
-The International Conference on Art, Museums and Digital Cultures Proceedings. Lisbon, 22-23 April 2021 (forthcoming)
+The International Conference on Art, Museums and Digital Cultures Proceedings. Lisbon, 22-23 April 2021.
 
 ### Full Text
 Will be available upon publication.
