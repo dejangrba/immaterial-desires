@@ -7,7 +7,7 @@ Nao Tokui, _The Latent Future_ (2017). Photo: Kioku Keizo. Photo Courtesy: NTT I
 ### Abstract
 In this paper we explore how the creative dynamics of experimental digital art (EDA) relate to the mainstream contemporary art (MCA) and digital culture. We discuss artworks that combine playful creative thinking with procedural fluency and leverage complex information technologies in order to address major cultural issues, and to encourage vigilance in our appreciation of the arts, society, and human nature. However, their conceptual and technical sophistication, variability, and technological entanglement simultaneously marginalize such practices and expose them to exploitation by the MCA. This conflicted relationship exemplifies the uneasy coevolution between the open-ended diversity of artistic creativity and the ambiguous flux of discourses, criteria and hierarchies in mainstream culture, commerce and scholarship. It also indicates that EDA practices—whose poetic logic is essential for establishing critical insights about our world—merit broader public awareness, and require innovative modes of institutional, academic, educational, financial and technical support.
 
-__Keywords:__ Bricolage, Digital Culture, Experimental Digital Art, Information Technologies, Mainstream Contemporary Art.
+__Keywords:__ Digital Culture, Experimental Digital Art, Information Technologies, Mainstream Contemporary Art.
 
 ### Publication
 The International Conference on Art, Museums and Digital Cultures Proceedings. Lisbon, 22-23 April 2021.
